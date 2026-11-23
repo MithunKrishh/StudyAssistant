@@ -1,6 +1,6 @@
 # StudyAssistant
 
-StudyPilot is an AI-powered academic planning assistant that helps
+StudyAssistant is an AI-powered academic planning assistant that helps
 students prepare for exams, organize revision, and manage study time.
 
 ## Features
